@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Движение_объекта_по_форме", "Движение_объекта_по_форме\Движение_объекта_по_форме.csproj", "{ADA7EB82-4EBD-402F-84D2-00D55C3B1C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA7EB82-4EBD-402F-84D2-00D55C3B1C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA7EB82-4EBD-402F-84D2-00D55C3B1C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA7EB82-4EBD-402F-84D2-00D55C3B1C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA7EB82-4EBD-402F-84D2-00D55C3B1C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F96AA75-5F16-43B6-B7DD-AC58327A67E0}
+	EndGlobalSection
+EndGlobal

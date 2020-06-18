@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\Движение_объекта_по_форме\Движение_объекта_по_форме\bin\Debug\Движение_объекта_по_форме.exe.config
+C:\Users\admin\Desktop\Движение_объекта_по_форме\Движение_объекта_по_форме\bin\Debug\Движение_объекта_по_форме.exe
+C:\Users\admin\Desktop\Движение_объекта_по_форме\Движение_объекта_по_форме\bin\Debug\Движение_объекта_по_форме.pdb
+C:\Users\admin\Desktop\Движение_объекта_по_форме\Движение_объекта_по_форме\obj\Debug\Движение_объекта_по_форме.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Движение_объекта_по_форме\Движение_объекта_по_форме\obj\Debug\Движение_объекта_по_форме.Form1.resources
+C:\Users\admin\Desktop\Движение_объекта_по_форме\Движение_объекта_по_форме\obj\Debug\Движение_объекта_по_форме.Properties.Resources.resources
+C:\Users\admin\Desktop\Движение_объекта_по_форме\Движение_объекта_по_форме\obj\Debug\Движение_объекта_по_форме.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Движение_объекта_по_форме\Движение_объекта_по_форме\obj\Debug\Движение_объекта_по_форме.exe
+C:\Users\admin\Desktop\Движение_объекта_по_форме\Движение_объекта_по_форме\obj\Debug\Движение_объекта_по_форме.pdb
